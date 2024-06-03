@@ -1,0 +1,28 @@
+/* css type selector  */
+body {
+    background-color: black;
+    color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+button {
+
+    background-color: #D65DB1;
+    color: #FBEAFF;
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+/* CSS type selector: pseudo class selector  */
+
+button:hover {
+    background-color: aquamarine;
+
+}
+h1 {
+    background-color: beige;
+    color: #D65DB1;
+    padding: 40px;
+}
